@@ -7,7 +7,8 @@ const dictionary = [
     "CHAIR", "TABLE", "CLOCK", "PHONE", "RADIO", "VIDEO", "PHOTO", "FRAME",
     "ROUND", "SQUARE", "BLOCK", "CRAZY", "HAPPY", "BRAVE", "SMART", "QUICK",
     "SWEET", "CLEAN", "FRESH", "BROWN", "BLACK", "WHITE", "GREEN", "BLUES",
-    "REACT", "VUEJS", "ANGEL", "DEMON", "DEVIL", "CRISP", "CANDY", "SUGAR"
+    "REACT",
+    "ANGEL", "DEMON", "DEVIL", "CRISP", "CANDY", "SUGAR"
 ];
 
 let targetWord = "";
